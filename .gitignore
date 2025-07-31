@@ -179,3 +179,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+
+# Contents of data folder
+02_data/*
+!02_data/.gitkeep
+
+# OLD folder in analysis
+03_analysis/Old/
